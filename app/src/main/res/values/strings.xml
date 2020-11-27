@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit CRUD</string>
+    <string name="add_user">Add Product</string>
+    <string name="fetch_user">Fetch Product</string>
+    <string name="name">Name:</string>
+    <string name="price">Price:</string>
+    <string name="desc">Description:</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="id">ID: </string>
+</resources>
